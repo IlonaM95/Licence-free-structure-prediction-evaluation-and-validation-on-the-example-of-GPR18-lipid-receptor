@@ -1,0 +1,1 @@
+# Licence-free-structure-prediction-evaluation-and-validation-on-the-example-of-GPR18-lipid-receptor
